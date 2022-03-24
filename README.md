@@ -1,2 +1,2 @@
 # demo-repo
-demo repo for Hands on DevOps
+Demo repo for Hands on DevOps!
